@@ -1,0 +1,17 @@
+onces login the jira 
+inside of the jira then goto --create the project
+                             --then choose the screme project  (issue is general topic whenveer we going work
+there here different issues there like (task ,epics,bugs,story,(and understanding what type of issue we going generate
+
+                             --then here i mention the name of the projects
+      now iam in the project (backlog)--then here i choose the (epics)then give the name of the epic then after come to user story
+then pririty (medim,low,hight),if want attch the dockement attched)(note:epic can't be assign to another epic)
+see epic story is created
+
+   ------>check out the books   -----epic
+   ------>create the account
+               display catalogs              -----userstory
+
+---->go back backlog---bydeafault there project and epic instaof that we can choose the
+    story,(prority,epic link is most imp where the tracesbility,
+---->same wat we can do another story nam (display catalog 
